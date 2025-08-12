@@ -1,4 +1,4 @@
-// File: C:\Users\lifec\OneDrive - Hello Script AI\lifeAgent\voice-live-agent\samples\react\src\app\page.tsx
+// File: C:\Users\lifec\OneDrive\Documents\GitHub\hello-voice\src\app\page.tsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
